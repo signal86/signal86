@@ -1,10 +1,10 @@
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=signal86&theme=rose_pine" width="684.2px">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=signal86&theme=material_palenight" width="684.2px">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=signal86&theme=rose_pine)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=signal86&theme=rose_pine)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=signal86&theme=material_palenight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=signal86&theme=material_palenight)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=signal86&theme=rose_pine)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=signal86&theme=rose_pine&utcOffset=3)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=signal86&theme=material_palenight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=signal86&theme=material_palenight&utcOffset=3)
 
 <!--
 **signal86/signal86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
